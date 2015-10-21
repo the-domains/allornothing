@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "good ol' information"
-datePublished: '2015-10-21T04:41:16.493Z'
-dateModified: '2015-10-21T04:40:43.892Z'
+datePublished: '2015-10-21T04:41:29.983Z'
+dateModified: '2015-10-21T04:41:16.493Z'
 title: 'All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.'
 authors: []
 publisher:
