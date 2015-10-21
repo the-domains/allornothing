@@ -1,4 +1,4 @@
-name: null
+name: allornothing
 favicon: null
 layout_spectrum: 0.4762251062784344
 typography_spectrum: 0.9911016309633851
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.9222856028936803
+  brandStrength: 0.5
   lightness: 0.19763290928676724
   saturation: 0.2351776254363358
   rhythmicContrast: 0.14891871786676347
