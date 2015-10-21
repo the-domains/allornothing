@@ -4,8 +4,15 @@
         <description><![CDATA[allornothing]]></description>
         <link>https://thegrid.ai/allornothing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 17:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 17:04:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/allornothing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.]]></title>
+            <description><![CDATA[<article><h1>All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.</h1><p>good ol' information</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db6451d-db09-4eea-b975-1291273f50f7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/allornothing/all-day-and-day-we-sense-we-experience-we-find-rhythm-in/index.html</link>
+            <guid isPermaLink="false">6ab46ef8-d85b-4dfe-ac73-59840766e489</guid>
+            <pubDate>Wed, 21 Oct 2015 17:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Page2]]></title>
             <description><![CDATA[<article><h1>Page2</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In feugiat ultrices dolor, aliquet malesuada risus scelerisque et. Sed aliquam sem eget pretium facilisis. Etiam et velit a odio congue pharetra. Nunc neque purus, tincidunt at orci in, egestas tristique enim. Ut tempor augue tortor. Phasellus aliquam fringilla tristique. Aenean posuere ligula ut justo commodo efficitur. Proin nec bibendum elit, non suscipit massa. Phasellus varius enim in venenatis euismod. Vestibulum varius libero ligula, ut sollicitudin libero finibus vitae.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baea0544-3287-463f-9571-f73c192b0853.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/allornothing/this-is-some-text-for-a-draft-post/index.html</link>
             <guid isPermaLink="false">47d18a81-6718-4c61-9673-c9096d34174f</guid>
             <pubDate>Wed, 21 Oct 2015 16:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.]]></title>
-            <description><![CDATA[<article><h1>All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.</h1><p>good ol' information</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db6451d-db09-4eea-b975-1291273f50f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/allornothing/all-day-and-day-we-sense-we-experience-we-find-rhythm-in/index.html</link>
-            <guid isPermaLink="false">6ab46ef8-d85b-4dfe-ac73-59840766e489</guid>
-            <pubDate>Wed, 21 Oct 2015 17:03:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
