@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-21T04:51:51.712Z'
-dateModified: '2015-10-21T04:51:45.383Z'
+datePublished: '2015-10-21T16:14:32.633Z'
+dateModified: '2015-10-21T16:14:11.299Z'
 title: This is some text for a draft post...
 sourcePath: _posts/2015-10-21-this-is-some-text-for-a-draft-post.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: this-is-some-text-for-a-draft-post/index.html
 _type: Article
 
