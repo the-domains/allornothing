@@ -4,7 +4,7 @@
         <description><![CDATA[allornothing]]></description>
         <link>https://thegrid.ai/allornothing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 04:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 04:47:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/allornothing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[All Day and Day. We sense. We experience. We find rhythm in the noise. Every moment is potential to learn, to connect, to feel, to move and be moved.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/allornothing/all-day-and-day-we-sense-we-experience-we-find-rhythm-in/index.html</link>
             <guid isPermaLink="false">6ab46ef8-d85b-4dfe-ac73-59840766e489</guid>
             <pubDate>Wed, 21 Oct 2015 04:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is some text for a draft post...]]></title>
+            <description><![CDATA[<h1>This is some text for a draft post...</h1>]]></description>
+            <link>https://thegrid.ai/allornothing/this-is-some-text-for-a-draft-post/index.html</link>
+            <guid isPermaLink="false">47d18a81-6718-4c61-9673-c9096d34174f</guid>
+            <pubDate>Wed, 21 Oct 2015 04:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
