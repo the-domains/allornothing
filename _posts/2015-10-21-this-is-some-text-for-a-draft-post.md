@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-21T04:47:11.610Z'
-dateModified: '2015-10-21T04:46:52.314Z'
+datePublished: '2015-10-21T04:49:57.344Z'
+dateModified: '2015-10-21T04:49:44.293Z'
 title: This is some text for a draft post...
 authors: []
 publisher:
